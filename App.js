@@ -10,7 +10,7 @@ class HomeScreen extends React.Component {
     title: 'Welcome',
   };
   render() {
-    return <Text>Hello, Navigation!</Text>;
+    return <Text>Hello, Navigation</Text>;
   }
 }
 
